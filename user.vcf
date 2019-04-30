@@ -5,9 +5,9 @@ N:Leow;Jack;;;
 FN: Jack  Leow 
 ORG:Tech2Reach;
 TITLE:Director\,Corporate Strategy
-EMAIL;type=INTERNET;type=WORK;type=pref:jack.leow@edgeworks.com.sg
+EMAIL;type=INTERNET;type=WORK;type=pref:jack.leow@tech2reach.com
 TEL;type=WORK;type=VOICE:+65 9638 3411
-item1.ADR;type=WORK;type=pref:;;2 Kallang Avenue\nCT Hub\, 08-10;;;339407;Singapore
+item1.ADR;type=WORK;type=pref:;;250 North Bridge Road \nRaffles City Tower\, 11-02;;;179101;Singapore
 item1.X-ABADR:sg
 item2.URL;type=pref:tech2reach.com
 item2.X-ABLabel:_$!<HomePage>!$_
